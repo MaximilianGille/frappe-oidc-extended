@@ -4,6 +4,8 @@
 
 An extension to the ERPNext Social Login authentication method (OIDC) that incorporates new features designed to meet the needs of enterprises.
 
+Test
+
 Features:
 
 - Group Multi-Mapping: natively assign multiple roles and modules by mapping OIDC *groups* to Frappe **Role Profiles** and **Module Profiles**.
